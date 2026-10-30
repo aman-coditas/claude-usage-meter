@@ -1,0 +1,7 @@
+{
+  "name": "usage-meter",
+  "version": "0.1.0",
+  "description": "A ribbon above the prompt showing session and weekly usage as a grid of squares, plus a live prompt-cache temperature (HOT / WARM / COLD).",
+  "author": { "name": "aman-coditas" },
+  "license": "MIT"
+}
